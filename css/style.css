@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+	
+	/* counterdown start */
+    .abcd{
+        text-align: center;
+        text-transform: uppercase;
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    #countdown{
+       padding: 300px 0px;
+        background:url(../images/pexels-pixabay-210019.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .countdown_part{
+    display: flex;
+    justify-content: space-between;
+    
+    
+    }
+    .countdown_item{
+        padding: 20px;
+        width: 300px;
+        background: rgb(11, 137, 221);
+        border: 2px solid rgb(0, 255, 106);
+        border-radius: 10px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+    }
+    
+    /* counterdown start */
+    
+    
+
+/* counterdown start */
+.abcd1{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#counterup{
+    padding: 300px 0px;
+    background:url(../images/pexels-mike-b-116675.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.counterup_part{
+display: flex;
+justify-content: space-between;
+
+
+}
+.counterup_item{
+    padding: 20px;
+    width: 300px;
+    background: rgb(221, 11, 141);
+    border: 2px solid rgb(0, 255, 106);
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+/* counterdown end */
+
+
+/* lightbox start  */
+.abcd2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#lightbox{
+    padding: 300px 0px;
+    background:url(../images/pexels-alexgtacar-1592384.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.lightbox_part{
+display: flex;
+justify-content: space-between;
+
+
+}
+.lightbox_item{
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.lightbox_item img{
+    width: 100%;
+    height: 100%;
+}
+
+/* lightbox end */
+
+/* <!-- venobox_part_start --> */
+.abcd3{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#venobox{
+    padding: 300px 0px;
+    background:url(../images/pexels-mike-b-112460.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.venobox_part{
+display: flex;
+justify-content: space-between;
+
+
+}
+.venobox_item{
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+
+
+.venobox_item img{
+    width: 100%;
+    height: 100%;
+}
+
+/* <!-- venobox_part_end --> */
+ 
+/* venobox_video_start */
+#venobox_video{
+   
+    background:url(../images/pexels-cesar-perez-733745.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.overly{
+    padding: 400px 0px;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.play{
+    text-align: center;
+}
+
+.play i{
+    font-size: 80px;
+    color: #fff;
+}
+
+
+
+
+/* venobox_video_end */
